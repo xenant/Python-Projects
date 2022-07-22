@@ -1,4 +1,4 @@
-#https://www.practicepython.org/exercise/2014/01/29/01-character-input.htmlname = input("Please type in in your name! : ")
+#https://www.practicepython.org/exercise/2014/01/29/01-character-input.htmlname 
 name = input("Please type in in your name! :")
 print("Your name is..." + name + "!") 
 
